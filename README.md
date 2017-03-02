@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 README:
 
 If you use our code please cite our paper:
@@ -12,6 +11,3 @@ L. De Stefani, A. Epasto, E. Upfal, F. Vandin , "Reconstructing Hidden Permutati
   pages={1526--1532},
   year={2016}
 }
-=======
-# permutation
->>>>>>> 3bd4b7764135676dcb5f0d590b0528024a0d12ed
